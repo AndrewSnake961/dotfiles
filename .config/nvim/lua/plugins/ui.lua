@@ -1,5 +1,5 @@
-local function Sindo()
-	return [[Sindo]]
+local function Snake()
+	return [[Snake]]
 end
 
 return {
@@ -102,7 +102,7 @@ return {
 				theme = "catppuccin",
 			},
 			sections = {
-				lualine_z = { Sindo },
+				lualine_z = { Snake },
 			},
 		},
 	},
